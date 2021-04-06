@@ -1,0 +1,37 @@
+* {
+	margin:0;
+	padding:0;
+	color: #eeeeee;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+body {
+	background-color: #393e46;
+}
+header {
+	padding: 10px;
+	color: #eeeeee;
+	background-color: #232931;
+	box-shadow: 3px 3px 3px #333333;
+}
+ul {
+	list-style-type: none;
+}
+.c1 {
+	width: 400px;
+	height: 360px;
+	box-shadow: 3px 3px 3px #333333;
+	margin: 40px 0px 0px 40px;
+	background-color: #232931;
+	float:left;
+}
+.c1 p, .c2 p{
+	margin: 10px;
+}
+.c2 {
+	width: 400px;
+	height: 360px;
+	box-shadow: 3px 3px 3px #333333;
+	margin: 40px 0px 0px 40px;
+	background-color: #232931;
+	float: left;
+}
