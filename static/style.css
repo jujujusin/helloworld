@@ -17,13 +17,15 @@ header {
 ul {
 	list-style-type: none;
 }
+.x {
+	display: block;
+}
 .c1 {
 	width: 400px;
 	height: 360px;
 	box-shadow: 3px 3px 3px #333333;
 	margin: 40px 0px 0px 40px;
 	background-color: #232931;
-	float:left;
 }
 .c1 p, .c2 p{
 	margin: 10px;
@@ -34,5 +36,4 @@ ul {
 	box-shadow: 3px 3px 3px #333333;
 	margin: 40px 0px 0px 40px;
 	background-color: #232931;
-	float: left;
 }
