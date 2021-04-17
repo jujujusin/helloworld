@@ -3,13 +3,13 @@
 	padding:0;
 	color: #eeeeee;
 	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 30px;
 }
 body {
 	background-color: #393e46;
 }
 header {
 	padding: 10px;
-	font-size: 25px;
 	color: #eeeeee;
 	background-color: #232931;
 	box-shadow: 3px 3px 3px #333333;
@@ -28,7 +28,6 @@ ul {
 	background-color: #232931;
 }
 .c1 p, .c2 p{
-	font-size: 20px;
 	margin: 10px;
 }
 .c2 {
